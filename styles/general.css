@@ -44,7 +44,7 @@ html {
     height: 5000px;
     margin-top: 0;
     z-index: 1;
-    background: url('/The Vine/images/20210108 Noosa Beach Surfers Portrait.jpg');
+    background: url('images/20210108 Noosa Beach Surfers Portrait.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
